@@ -1,3 +1,19 @@
 {
-  "name": "Demo Status"
+  "name": "Demo Status",
+  "author": "NotHansCYDIa",
+  "description": "a cool repo",
+  "status": [
+    {
+      "name": "ongoing",
+      "predcolor": "green"
+    }
+  ],
+  "artifacts": [
+    {
+      "name": "Name",
+      "fdesc": "Front Description",
+      "priority": 2,
+      "status": "ongoing"
+    }
+  ]
 }
