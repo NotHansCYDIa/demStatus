@@ -1,0 +1,24 @@
+{
+  "name": "Demo Status",
+  "author": "NotHansCYDIa",
+  "status": [
+    {
+      "name":"ongoing",
+      "predcolor":"green"
+    }
+  ],
+  "artifacts": [
+    {
+      "name": "Work Reminder",
+      "fdesc": "Do not forget to bring home your stuff!",
+      "priority": 5,
+      "status": "ongoing"
+    },
+    {
+      "name": "Friendly Reminder",
+      "fdesc": "Pass your final concepts on Friday!",
+      "priority": 0,
+      "status": "ongoing"
+    }
+  ]
+}
