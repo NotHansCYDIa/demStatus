@@ -1,0 +1,20 @@
+{
+  "name": "A Parcel",
+  "author": "NotHansCYDIa",
+  "fdesc": "A Placeholder parcel.",
+  "description": "\"A Parcel\" is a placeholder parcel that was created for users to explore demStatus. Basically a default parcel...",
+  "status": [
+    {
+      "name": "ongoing",
+      "predcolor": "green"
+    }
+  ],
+  "artifacts": [
+    {
+      "name": "Friendly Reminder",
+      "fdesc": "Front Description",
+      "priority": 2,
+      "status": "ongoing"
+    }
+  ]
+}
