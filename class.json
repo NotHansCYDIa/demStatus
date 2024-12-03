@@ -33,19 +33,19 @@
     {
       "name": "English: FQE",
       "fdesc": "English First Quarter Exam is all about synonyms and antonyms. Exam starts at 8:00AM and ends at 9:00AM, December 2, 2024.",
-      "priority": 3,
+      "priority": 2,
       "status": "upcoming"
     },
     {
       "name": "Arts: FQFP",
       "fdesc": "Arts First Quarter Final Preformance Task (PETA) is about masking and depth. Deadline is on December 1, 2024, 8:00AM.",
-      "priority": 3,
+      "priority": 0,
       "status": "finish"
     },
     {
       "name": "TLE: Pillow Making",
       "fdesc": "For TLE, you have to create a pillow through sewing. Materials will be listed into the group chat soon.",
-      "priority": 0,
+      "priority": 3,
       "status": "progress"
     },
     {
