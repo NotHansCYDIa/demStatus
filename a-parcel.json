@@ -7,7 +7,7 @@
     {
       "name": "ongoing",
       "display": "Ongoing",
-      "icon": "hourglass"
+      "icon": "hourglass",
       "predcolor": "yellow"
     }
   ],
