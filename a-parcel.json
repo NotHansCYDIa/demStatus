@@ -6,7 +6,9 @@
   "status": [
     {
       "name": "ongoing",
-      "predcolor": "green"
+      "display": "Ongoing",
+      "icon": "hourglass"
+      "predcolor": "yellow"
     }
   ],
   "artifacts": [
