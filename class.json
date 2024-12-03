@@ -1,0 +1,58 @@
+{
+  "name": "sA Classroom",
+  "author": "School Inc.",
+  "fdesc": "The classroom of section A.",
+  "description": "This parcel contains the lessons and assignments for section A.",
+  "status": [
+    {
+      "name": "progress",
+      "display": "In Progress",
+      "icon": "hourglass",
+      "predcolor": "yellow"
+    },
+    {
+      "name": "cancelled",
+      "display": "Cancelled",
+      "icon": "xmark",
+      "predcolor": "red"
+    },
+    {
+      "name": "upcoming",
+      "display": "Upcoming",
+      "icon": "clock.fill",
+      "predcolor": "gray"
+    },
+    {
+      "name": "finish",
+      "display": "Finished",
+      "icon": "checkmark",
+      "predcolor": "green"
+    }
+  ],
+  "artifacts": [
+    {
+      "name": "English: FQE",
+      "fdesc": "English First Quarter Exam is all about synonyms and antonyms. Exam starts at 8:00AM and ends at 9:00AM, December 2, 2024.",
+      "priority": 3,
+      "status": "upcoming"
+    },
+    {
+      "name": "Arts: FQFP",
+      "fdesc": "Arts First Quarter Final Preformance Task (PETA) is about masking and depth. Deadline is on December 1, 2024, 8:00AM.",
+      "priority": 3,
+      "status": "finish"
+    },
+    {
+      "name": "TLE: Pillow Making",
+      "fdesc": "For TLE, you have to create a pillow through sewing. Materials will be listed into the group chat soon.",
+      "priority": 0,
+      "status": "progress"
+    },
+    {
+      "name": "Arts: Glow in the dark stars",
+      "fdesc": "Create glow in the dark stars using glow in the dark paint provided by the school.",
+      "priority": 0,
+      "status": "cancelled"
+    }
+  ]
+}
