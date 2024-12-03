@@ -8,25 +8,29 @@
       "name": "progress",
       "display": "In Progress",
       "icon": "hourglass",
-      "predcolor": "yellow"
+      "predcolor": "yellow",
+      "priority": 3
     },
     {
       "name": "cancelled",
       "display": "Cancelled",
       "icon": "xmark",
-      "predcolor": "red"
+      "predcolor": "red",
+      "priority": 1
     },
     {
       "name": "upcoming",
       "display": "Upcoming",
       "icon": "clock.fill",
-      "predcolor": "gray"
+      "predcolor": "gray",
+      "priority": 2
     },
     {
       "name": "finish",
       "display": "Finished",
       "icon": "checkmark",
-      "predcolor": "green"
+      "predcolor": "green",
+      "priority": 0
     }
   ],
   "artifacts": [
