@@ -13,7 +13,13 @@
     {
       "name": "Friendly Reminder",
       "fdesc": "Front Description",
-      "priority": 2,
+      "priority": 0,
+      "status": "ongoing"
+    }
+    {
+      "name": "Urgent Reminder",
+      "fdesc": "Front Description",
+      "priority": 5,
       "status": "ongoing"
     }
   ]
